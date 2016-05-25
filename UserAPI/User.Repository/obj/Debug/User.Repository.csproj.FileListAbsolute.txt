@@ -1,0 +1,8 @@
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\bin\Debug\User.Repository.dll
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\bin\Debug\User.Repository.pdb
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\bin\Debug\Faker.dll
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\obj\Debug\User.Repository.csprojResolveAssemblyReference.cache
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\obj\Debug\User.Repository.dll
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\obj\Debug\User.Repository.pdb
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\bin\Debug\User.Shared.dll
+C:\Users\mitev\Dropbox\companies\techHuddle\UserAPI\User.Repository\bin\Debug\User.Shared.pdb
